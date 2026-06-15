@@ -5,7 +5,7 @@ Plugin URI: https://github.com/julabo/keycloak_yourls
 Description: Provides Keycloak user authentication with rate limiting and secure session management
 Author: Jan Leehr
 Author URI: https://julabo.com
-Version: 1.1.0
+Version: 1.2.0
 */
 
 // Prevent direct access
